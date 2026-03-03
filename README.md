@@ -3,8 +3,8 @@
 
 <div align="center" >
   
- |![](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaaacf&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lidiaaacf&theme=date_night)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
- | ----------- | ----------- |
+ |[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lidiaaacf&theme=date_night)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+ | ----------- | 
 
  <hr/>
 
