@@ -4,10 +4,6 @@
 [![CodeQL Analysis](https://github.com/lidiaaacf/secure-regulatory-api/actions/workflows/codeql.yml/badge.svg)](https://github.com/lidiaaacf/secure-regulatory-api/security/code-scanning)
 [![DevSecOps Pipeline](https://github.com/lidiaaacf/secure-regulatory-api/actions/workflows/ci.yml/badge.svg)](https://github.com/lidiaaacf/secure-regulatory-api/actions/workflows/ci.yml)
 
-<!-- GitHub stats -->
-| ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lidiaaacf&theme=date_night) |
-| --------------------------------------------------------- |
-
 | ![Top Contributors](https://github-contributor-stats.vercel.app/api?username=lidiaaacf&limit=5&theme=date_night&combine_all_yearly_contributions=true&hide_border=true) | <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="400"/> |
 | --------------------------------------------------------- | --------------------------------------------------------- |
 
