@@ -15,7 +15,7 @@
 
 <!-- Skills icons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,nodejs,cypress,vue,materialui,linux,python,arduino,azure,postgresql,selenium,java" />
+  <img src="https://skillicons.dev/icons?i=git,linux,python,arduino,azure,postgresql,selenium,java,rust,docker,cs,dotnet,react,nodejs,cypress" />
 </a>
 
 </div>
